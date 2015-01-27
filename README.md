@@ -27,6 +27,8 @@ Time spent: 10
 ### Walkthrough
 ![Video Walkthrough](https://github.com/imcoldz/ShowMeMov/blob/master/rottentomato_walktrough.gif)
 
+![Video Walkthrough](![Video Walkthrough](https://github.com/imcoldz/ShowMeMov/blob/master/rottentomato_walktrough.gif))
+
 Credits
 ---------
 * [Rotten Tomatoes API](http://developer.rottentomatoes.com/docs/read/JSON)
