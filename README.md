@@ -27,7 +27,7 @@ Time spent: 10
 ### Walkthrough
 ![Video Walkthrough](https://github.com/imcoldz/ShowMeMov/blob/master/rottentomato_walktrough.gif)
 
-![Video Walkthrough2](![Video Walkthrough](https://github.com/imcoldz/ShowMeMov/blob/master/rottentomato_walktrough.gif))
+![Video Walkthrough](https://github.com/imcoldz/ShowMeMov/blob/master/rottentomato_networkerror_walktrough.gif)
 
 Credits
 ---------
